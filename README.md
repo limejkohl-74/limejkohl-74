@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, My Name Is Josiah Kohl
+
+I am an undergraduate studying Computer Science at Wright State University.
+
+I am currently enrolled in CS 1181, which is primarily Java focused and am looking forward 
+to learning more throughout the programming world.
+
+A Fun fact about me is I was born with club foot
+
 
 <!--
 **limejkohl-74/limejkohl-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
