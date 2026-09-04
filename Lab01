@@ -13,11 +13,11 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
-| help    | man         |        |
-| Get-Location | pwd    |        |
-| Get-ChildItem | ls    |        |
-| mkdir   | mkdir       |        |
-| Set-Location | cd     |        |
+| help    | man         | list the built in shell functions |
+| Get-Location | pwd    | Displays the current directory you are working in |
+| Get-ChildItem | ls    | list the contents of current directory |
+| mkdir   | mkdir       | Creates a new file/directory |
+| Set-Location | cd     | Changes to your home directory |
 | New-Item | touch      |        |
 | Move-Item | mv        |        |
 | Copy-Item | cp        |        |
