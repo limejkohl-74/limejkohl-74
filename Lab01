@@ -16,13 +16,13 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab01/Inst
 | help    | man         | list the built in shell functions |
 | Get-Location | pwd    | Displays the current directory you are working in |
 | Get-ChildItem | ls    | list the contents of current directory |
-| mkdir   | mkdir       | Creates a new file/directory |
-| Set-Location | cd     | Changes to your home directory |
-| New-Item | touch      |        |
-| Move-Item | mv        |        |
-| Copy-Item | cp        |        |
-| Remove-Item | rm      |        |
-| notepad.exe | vim     |        |
+| mkdir   | mkdir       | Creates a new folder/directory |
+| Set-Location | cd     | Changes the directory your in |
+| New-Item | touch      | creates a new file |
+| Move-Item | mv        | allows you to move/rename a file or folder |
+| Copy-Item | cp        | copys the contents |
+| Remove-Item | rm      | deletes/removes the contents of said file or folder |
+| notepad.exe | vim     | creates a text file |
 
 ## Part 3 - Command Line Navigation
 
